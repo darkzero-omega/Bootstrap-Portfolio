@@ -1,0 +1,61 @@
+.form{
+    display: block;
+    width: 650px;
+    height: 500px;
+    background: #fff;
+    border: solid 1px #ddd;
+    float: left;
+    margin-top: 100px;
+    margin-left: 175px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.contact{
+    display: block;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 25px;
+}
+
+.contentline{
+    position: relative;
+    width: 90%;
+    border-top: solid 3px #e6e6e6;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+#form{
+    position: relative;
+    left: 35px;
+}
+
+.field{
+    width: 90%;
+    height: 25px;
+}
+
+.message{
+    height: 150px;
+}
+
+
+button{
+    background:  rgb(255, 26, 26);
+    color: white;
+    width: 85px;
+    height: 30px;
+    border: solid 1px rgb(255, 26, 26);
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog

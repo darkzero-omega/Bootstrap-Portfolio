@@ -1,0 +1,54 @@
+.maincontent{
+    display: block;
+    width: 650px;
+    height: 500px;
+    background: #fff;
+    border: solid 1px #ddd;
+    float: left;
+    margin-top: 100px;
+    margin-left: 175px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.aboutme{
+	display: block;
+	margin-top: 15px;
+	margin-left: 35px;
+	margin-bottom: 25px;
+}
+
+
+.contentline{
+	position: relative;
+	width: 90%;
+	border-top: solid 3px #e6e6e6;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.fbphoto{
+	position: relative;
+	width: 200px;
+	height: 175px;
+	left: 35px;
+	margin-bottom: 25px;
+}
+
+.para{
+	position: relative;
+	left: 35px;
+	width: 600px;
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
++
