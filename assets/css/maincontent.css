@@ -1,9 +1,10 @@
 .maincontent{
-    display: block;
+	display: block;
+	color: black;
     width: 650px;
     height: 500px;
     background: #fff;
-    border: solid 1px #ddd;
+    border: solid 1px gold;
     float: left;
     margin-top: 100px;
     margin-left: 175px;
@@ -12,6 +13,7 @@
 }
 
 .aboutme{
+	color: black;
 	display: block;
 	margin-top: 15px;
 	margin-left: 35px;
@@ -20,9 +22,10 @@
 
 
 .contentline{
+	color: gold;
 	position: relative;
 	width: 90%;
-	border-top: solid 3px #e6e6e6;
+	border-top: solid 3px gold;
     margin: auto;
     margin-bottom: 25px;
 }
@@ -37,6 +40,7 @@
 
 .para{
 	position: relative;
+	color:black;
 	left: 35px;
 	width: 600px;
 }
